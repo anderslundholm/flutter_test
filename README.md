@@ -1,4 +1,4 @@
-# flutter_course
+# flutter_test
 
 A new Flutter project.
 
